@@ -1,0 +1,39 @@
+{
+  "name": "reactjs-boilerplate",
+  "version": "1.0.0",
+  "description": "reactjs-boilerplate",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^3.7.1"
+  },
+  "scripts": {
+    "test": "npm run test",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spolimera/reactjs-boilerplate.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NodeJS"
+  ],
+  "author": "Sitaramireddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spolimera/reactjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/spolimera/reactjs-boilerplate#readme"
+}
